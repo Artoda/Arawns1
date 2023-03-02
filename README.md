@@ -8,7 +8,7 @@
 
 📖 Estudando Java POO
 
-📚 Cursando 2° periodo de Ciência da Computação na Faculdade Descomplica
+📚 Cursando 3° periodo de Ciência da Computação na Faculdade Descomplica
 
 🔮 Previsão do ano de conclusão do curso de Ciência da Computação: 12/2026
 

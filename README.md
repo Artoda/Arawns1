@@ -27,7 +27,7 @@
 
 <h2 align="left">Conecte-se comigo:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel damico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel damico" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-damico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel damico" height="30" width="40" /></a>
 <a href="https://www.behance.net/arawns_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arawns_designer" height="30" width="40" /></a>
 </p>
 

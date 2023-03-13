@@ -6,7 +6,7 @@
 
 🤓 Por fim, amo estudar e aprender coisas novas estando sempre aberto a analisar perspectivas diferentes e conhecer novas histórias, sou proativo e busco sempre me empenhar ao máximo, com garra e compaixão, nas coisas que gosto.
 
-📖 Estudando Java POO
+📖 Cursando Residência em TIC pelo Serratec 2023
 
 📚 Cursando 3° periodo de Ciência da Computação na Faculdade Descomplica
 
